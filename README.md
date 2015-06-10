@@ -4,12 +4,13 @@
 ### Hardware Specs (Outline)
 |  |  |
 |:-----------|------------:
-| SoC       | RK3066  |
+| SoC       | RK3066 Cortex-A9 dual core|
 | Memory     |  DDR3 1GB |
-| Storage  |  NAND Flash 1GB , 1 microSD slot |
+| Storage  |  NAND Flash 8GB , 1 microSD slot |
 | Dimension | 80mm x 48 mm |
 | Video |  microHDMI female |
 | USB | microUSB x 1 (OTG) , USB x 1 , microUSB x 1 (UART debug) |
+| Network | via USB port |
 | GPIO | > 1 (Configurable)|
 | I2C | 2 |
 | UART | 2 |
