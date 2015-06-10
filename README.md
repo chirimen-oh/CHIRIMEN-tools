@@ -18,3 +18,4 @@
 | Audio | analog stereo IN x 1 / OUT x 1 |
 | PWM | 1 |
 | Analog | IN x 1 |
+| Price | TBD ... [Desiring prince investigation](https://goo.gl/KPxBWm) |
