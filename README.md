@@ -19,4 +19,3 @@
 | PWM | 1 |
 | Analog | IN x 1 |
 | Price | TBD ... [See this slide](https://goo.gl/2W21kB)|
-| | [Desiring price investigation](https://goo.gl/KPxBWm) |
