@@ -2,12 +2,10 @@
 #
 #HWDEF		HWDEF
 package-file	package-file
-bootloader	RK3066Loader_miniall.bin
+bootloader	RK30xxLoader(L)_V2.09.bin
 parameter	parameter
-uboot		Image/uboot.img
 misc		Image/misc.img
 kernel		Image/kernel.img
-#resource	Image/resource.img
 boot		Image/boot.img
 recovery	Image/recovery.img
 system		Image/system.img
